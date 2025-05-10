@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WAKlORD
+- 👋 Hi, I’m @AnandSinghBhadoria
 - 👀 I’m interested in ...Learning 
 - 🌱 I’m currently learning ...start with beginner
 - 💞️ I’m looking to collaborate on ...not now if help me with queries that would be helpful
